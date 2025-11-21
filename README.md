@@ -1,8 +1,8 @@
 # Aviation Training Performance Analytics
 
 **Project for:** Lufthansa Aviation Training - Data & Analytics Role  
-**Author:** [Your Name]  
-**Date:** November 2024  
+**Author:** Sneha  
+**Date:** November 2025  
 **Tech Stack:** Python, Pandas, Power BI
 
 ## 📋 Project Overview
@@ -121,9 +121,8 @@ Example:
 
 ## 📧 Contact
 
-[Your Name]  
-[Your Email]  
-[LinkedIn Profile]
+Sneha Pulikonda    
+linkedin.com/in/sneha-pulikonda
 
 ---
 
