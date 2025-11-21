@@ -89,9 +89,6 @@ python scripts/etl_pipeline.py
 
 ## 🔍 Key Insights
 
-*[Add 3-4 insights from your analysis after creating dashboard]*
-
-Example:
 - Average simulator utilization: 67% (below 75% target)
 - Recurrent training has highest pass rate: 94%
 - Munich location generates 35% of total revenue
