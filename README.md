@@ -32,21 +32,27 @@ This project demonstrates end-to-end data analytics for flight simulator trainin
 
 LAT_Training_Analytics/
 ├── data/
-│   ├── raw/                    # Original generated data
+
+│   ├── raw/    
+
 │   │   ├── simulators.csv
 │   │   ├── instructors.csv
 │   │   └── training_sessions.csv
-│   └── processed/              # Transformed data for BI
+│   └── processed/
+
 │       ├── sessions_enriched.csv
 │       ├── simulator_utilization.csv
 │       ├── training_performance.csv
 │       ├── instructor_performance.csv
 │       └── location_performance.csv
+
 ├── scripts/
-│   ├── generate_data.py        # Data generation script
-│   └── etl_pipeline.py         # ETL transformations
+
+│   ├── generate_data.py       
+│   └── etl_pipeline.py         
+
 ├── docs/
-│   └── data_dictionary.md      # Data definitions
+│   └── data_dictionary.md    
 └── README.md
 
 ## 🚀 How to Run
@@ -122,8 +128,7 @@ Example:
 ## 📧 Contact
 
 Sneha Pulikonda    
-linkedin.com/in/sneha-pulikonda
-
+https://www.linkedin.com/in/sneha-pulikonda/
 ---
 
 **Note:** This is a demonstration project with synthetic data created for portfolio purposes.
