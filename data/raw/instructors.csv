@@ -1,0 +1,26 @@
+instructor_id,certification_level,aircraft_qualifications,years_experience,location,max_sessions_per_week
+INST-001,Senior,A320,14,Vienna,15
+INST-002,Standard,"A350, B737",13,Zurich,12
+INST-003,Standard,"A320, A350, B737",25,Zurich,10
+INST-004,Standard,"A380, A350",23,Vienna,8
+INST-005,Standard,B737,14,Vienna,9
+INST-006,Standard,"B737, A350, A380",17,Brussels,15
+INST-007,Senior,A350,25,Frankfurt,12
+INST-008,Standard,"A380, B787",13,Zurich,10
+INST-009,Standard,A320,5,Zurich,10
+INST-010,Standard,"A380, A320",14,Brussels,15
+INST-011,Standard,"A320, A380, B737",19,Vienna,13
+INST-012,Senior,"A350, B787",2,Berlin,12
+INST-013,Junior,A380,5,Berlin,12
+INST-014,Junior,"A380, A350, A320",13,Zurich,8
+INST-015,Standard,"A320, A380",13,Vienna,11
+INST-016,Senior,"A320, A380, B737",17,Munich,10
+INST-017,Senior,"A380, A350",10,Frankfurt,14
+INST-018,Junior,"A350, B737, A380",23,Berlin,13
+INST-019,Standard,"B787, A320, A380",9,Munich,13
+INST-020,Senior,"A350, A380, A320",4,Berlin,8
+INST-021,Standard,B737,4,Frankfurt,11
+INST-022,Standard,"A350, A380",25,Frankfurt,15
+INST-023,Standard,"B787, A350",5,Munich,14
+INST-024,Standard,"B787, A320",23,Berlin,9
+INST-025,Senior,"B737, A320, B787",8,Zurich,15

@@ -1,0 +1,13 @@
+simulator_id,aircraft_type,location,acquisition_date,hourly_rate_eur,max_hours_per_day,status
+SIM-001,A320,Munich,2021-06-17,525,20,Active
+SIM-002,A320,Berlin,2019-12-12,444,20,Active
+SIM-003,A320,Munich,2022-06-24,511,20,Active
+SIM-004,A380,Munich,2019-11-09,501,20,Active
+SIM-005,A380,Brussels,2021-10-07,629,20,Active
+SIM-006,A320,Zurich,2019-02-02,616,20,Active
+SIM-007,A350,Zurich,2021-02-11,452,20,Active
+SIM-008,A320,Vienna,2021-01-27,709,20,Active
+SIM-009,A320,Berlin,2020-06-05,674,20,Active
+SIM-010,B787,Munich,2019-11-28,550,20,Active
+SIM-011,A380,Vienna,2019-10-07,498,20,Active
+SIM-012,A320,Berlin,2021-09-22,795,20,Active

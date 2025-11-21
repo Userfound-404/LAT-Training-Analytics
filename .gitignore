@@ -1,0 +1,4 @@
+venv/
+*.pbix
+.DS_Store
+__pycache__/
