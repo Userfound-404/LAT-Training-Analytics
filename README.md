@@ -32,27 +32,21 @@ This project demonstrates end-to-end data analytics for flight simulator trainin
 
 LAT_Training_Analytics/
 ├── data/
-
-│   ├── raw/    
-
+│   ├── raw/
 │   │   ├── simulators.csv
 │   │   ├── instructors.csv
 │   │   └── training_sessions.csv
 │   └── processed/
-
 │       ├── sessions_enriched.csv
 │       ├── simulator_utilization.csv
 │       ├── training_performance.csv
 │       ├── instructor_performance.csv
 │       └── location_performance.csv
-
 ├── scripts/
-
-│   ├── generate_data.py       
-│   └── etl_pipeline.py         
-
+│   ├── generate_data.py
+│   └── etl_pipeline.py
 ├── docs/
-│   └── data_dictionary.md    
+│   └── data_dictionary.md
 └── README.md
 
 ## 🚀 How to Run
